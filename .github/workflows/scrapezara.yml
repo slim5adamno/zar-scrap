@@ -1,0 +1,23 @@
+name: Men uniq scrape 15 minute 
+
+on:
+  schedule:
+    - cron:  '*/15 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl --user-agent "Mozilla 5.0/ " "https://www.zara.com/in/en/category/2010344/products" | jq '.productGroups | .[] | .elements | .[] | .commercialComponents | .[] | {name : .name,price: .price,discount : .displayDiscountPercentage, link : "https://www.zara.com/in/en/\(.seo.keyword)-p\(.seo.seoProductId).html?v1=\(.seo.discernProductId)"}' > zara.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date "+%a %h %d %r")
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
