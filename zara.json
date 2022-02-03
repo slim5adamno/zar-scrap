@@ -17,28 +17,22 @@
   "link": "https://www.zara.com/in/en/seamless-singlet-top-p00119403.html?v1=110662098"
 }
 {
-  "name": "COTTON CARDIGAN",
-  "price": 129000,
-  "discount": 70,
-  "link": "https://www.zara.com/in/en/cotton-cardigan-p00761305.html?v1=114986667"
-}
-{
   "name": "TAILORED WAISTCOAT",
   "price": 129000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/tailored-waistcoat-p00761303.html?v1=116357554"
 }
 {
+  "name": "COTTON JACKET WITH POCKETS",
+  "price": 249000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/cotton-jacket-with-pockets-p04667155.html?v1=120162973"
+}
+{
   "name": "QUILTED JACKET",
   "price": 199000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/quilted-jacket-p04387301.html?v1=111912659"
-}
-{
-  "name": "TECHNICAL JACKET",
-  "price": 199000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/technical-jacket-p03918306.html?v1=115714621"
 }
 {
   "name": "LIGHTWEIGHT RUBBERISED JACKET",
@@ -51,6 +45,12 @@
   "price": 199000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/striped-cotton-jacket-p00706489.html?v1=109011951"
+}
+{
+  "name": "DENIM JACKET WITH POCKETS",
+  "price": 199000,
+  "discount": 55,
+  "link": "https://www.zara.com/in/en/denim-jacket-with-pockets-p08197401.html?v1=129334940"
 }
 {
   "name": "LIGHTWEIGHT COTTON JACKET",
@@ -75,12 +75,6 @@
   "price": 199000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/corduroy-jacket-p01879301.html?v1=120466385"
-}
-{
-  "name": "TECHNICAL PUFFER JACKET",
-  "price": 199000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/technical-puffer-jacket-p08281319.html?v1=121206933"
 }
 {
   "name": "TEXTURED COTTON PARKA",
@@ -113,6 +107,12 @@
   "link": "https://www.zara.com/in/en/overshirt-with-pockets-p03562316.html?v1=108958009"
 }
 {
+  "name": "DENIM JACKET WITH POCKETS",
+  "price": 199000,
+  "discount": 55,
+  "link": "https://www.zara.com/in/en/denim-jacket-with-pockets-p08197401.html?v1=109006607"
+}
+{
   "name": "SET JACKET",
   "price": 199000,
   "discount": 60,
@@ -135,12 +135,6 @@
   "price": 129000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/striped-textured-shirt-p01413402.html?v1=135326720"
-}
-{
-  "name": "ZIP-COLLAR SWEATER",
-  "price": 129000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/zip-collar-sweater-p05755325.html?v1=128502157"
 }
 {
   "name": "SEAMLESS SINGLET TOP",
@@ -189,4 +183,10 @@
   "price": 59000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/cotton-bermuda-shorts-p09621420.html?v1=123919779"
+}
+{
+  "name": "FAUX LEATHER TROUSERS",
+  "price": 99000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/faux-leather-trousers-p09621418.html?v1=109007023"
 }
