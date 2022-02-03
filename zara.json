@@ -17,6 +17,12 @@
   "link": "https://www.zara.com/in/en/seamless-singlet-top-p00119403.html?v1=110662098"
 }
 {
+  "name": "COTTON CARDIGAN",
+  "price": 129000,
+  "discount": 70,
+  "link": "https://www.zara.com/in/en/cotton-cardigan-p00761305.html?v1=114986667"
+}
+{
   "name": "TAILORED WAISTCOAT",
   "price": 129000,
   "discount": 55,
@@ -45,12 +51,6 @@
   "price": 199000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/striped-cotton-jacket-p00706489.html?v1=109011951"
-}
-{
-  "name": "DENIM JACKET WITH POCKETS",
-  "price": 199000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/denim-jacket-with-pockets-p08197401.html?v1=129334940"
 }
 {
   "name": "LIGHTWEIGHT COTTON JACKET",
@@ -107,12 +107,6 @@
   "link": "https://www.zara.com/in/en/overshirt-with-pockets-p03562316.html?v1=108958009"
 }
 {
-  "name": "DENIM JACKET WITH POCKETS",
-  "price": 199000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/denim-jacket-with-pockets-p08197401.html?v1=109006607"
-}
-{
   "name": "SET JACKET",
   "price": 199000,
   "discount": 60,
@@ -125,12 +119,6 @@
   "link": "https://www.zara.com/in/en/waxed-worker-overshirt-p09621310.html?v1=108979896"
 }
 {
-  "name": "COTTON OVERSHIRT WITH POCKETS",
-  "price": 129000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/cotton-overshirt-with-pockets-p06861353.html?v1=119022992"
-}
-{
   "name": "STRIPED TEXTURED SHIRT",
   "price": 129000,
   "discount": 55,
@@ -141,6 +129,18 @@
   "price": 59000,
   "discount": 65,
   "link": "https://www.zara.com/in/en/seamless-singlet-top-p00119403.html?v1=123410638"
+}
+{
+  "name": "TECHNICAL HOODED SWEATSHIRT WITH ZIPS",
+  "price": 129000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/technical-hooded-sweatshirt-with-zips-p00761318.html?v1=153544906"
+}
+{
+  "name": "TECHNICAL HOODED SWEATSHIRT WITH ZIPS",
+  "price": 129000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/technical-hooded-sweatshirt-with-zips-p00761318.html?v1=123838077"
 }
 {
   "name": "CONTRAST KNIT POLO SHIRT",
@@ -183,10 +183,4 @@
   "price": 59000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/cotton-bermuda-shorts-p09621420.html?v1=123919779"
-}
-{
-  "name": "FAUX LEATHER TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/faux-leather-trousers-p09621418.html?v1=109007023"
 }
