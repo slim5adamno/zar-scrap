@@ -35,10 +35,10 @@
   "link": "https://www.zara.com/in/en/knit-vest-with-hood-p09598301.html?v1=123919632"
 }
 {
-  "name": "EMBROIDERED STRIPED JACKET",
+  "name": "OVERSIZE TRENCH COAT",
   "price": 199000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/embroidered-striped-jacket-p02675302.html?v1=123837935"
+  "discount": 75,
+  "link": "https://www.zara.com/in/en/oversize-trench-coat-p09621400.html?v1=125067075"
 }
 {
   "name": "PLEATED CHINO TROUSERS",
@@ -101,6 +101,12 @@
   "link": "https://www.zara.com/in/en/textured-cotton-parka-p02675314.html?v1=122869282"
 }
 {
+  "name": "DOUBLE-FACED JACKET",
+  "price": 499000,
+  "discount": 40,
+  "link": "https://www.zara.com/in/en/double-faced-jacket-p06318321.html?v1=119862603"
+}
+{
   "name": "LIGHTWEIGHT TECHNICAL JACKET",
   "price": 199000,
   "discount": 60,
@@ -113,10 +119,22 @@
   "link": "https://www.zara.com/in/en/hooded-technical-jacket-p08281507.html?v1=144305812"
 }
 {
+  "name": "EMBROIDERED STRIPED JACKET",
+  "price": 199000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/embroidered-striped-jacket-p02675302.html?v1=123837935"
+}
+{
   "name": "WOOL SWEATER",
   "price": 129000,
   "discount": 75,
   "link": "https://www.zara.com/in/en/wool-sweater-p00693316.html?v1=121258698"
+}
+{
+  "name": "COTTON PLEATED TROUSERS",
+  "price": 99000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/cotton-pleated-trousers-p06861352.html?v1=111196319"
 }
 {
   "name": "STRIPED SEERSUCKER OVERSHIRT",
@@ -125,22 +143,34 @@
   "link": "https://www.zara.com/in/en/striped-seersucker-overshirt-p09870416.html?v1=123919503"
 }
 {
+  "name": "STRIPED WRINKLED-EFFECT SHIRT",
+  "price": 99000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/striped-wrinkled-effect-shirt-p05694276.html?v1=124500950"
+}
+{
   "name": "WATER-REPELLENT DOWN PUFFER JACKET",
   "price": 499000,
   "discount": 40,
   "link": "https://www.zara.com/in/en/water-repellent-down-puffer-jacket-p03427420.html?v1=133387090"
 }
 {
-  "name": "HOODED PUFFER JACKET",
-  "price": 199000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/hooded-puffer-jacket-p05320420.html?v1=109642057"
-}
-{
   "name": "OVERSHIRT WITH POCKETS",
   "price": 129000,
   "discount": 70,
   "link": "https://www.zara.com/in/en/overshirt-with-pockets-p05722137.html?v1=135327193"
+}
+{
+  "name": "STRIPED COTTON/LINEN BLEND SHIRT",
+  "price": 79000,
+  "discount": 55,
+  "link": "https://www.zara.com/in/en/striped-cotton-linen-blend-shirt-p07545307.html?v1=123838236"
+}
+{
+  "name": "EMBROIDERED SLOGAN T-SHIRT",
+  "price": 59000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/embroidered-slogan-t-shirt-p06224311.html?v1=125044933"
 }
 {
   "name": "VEST WITH CONTRAST TRIMS",
@@ -165,10 +195,4 @@
   "price": 129000,
   "discount": 50,
   "link": "https://www.zara.com/in/en/round-neck-sweater-p03332316.html?v1=136958226"
-}
-{
-  "name": "LIGHTWEIGHT TECHNICAL JACKET",
-  "price": 99000,
-  "discount": 40,
-  "link": "https://www.zara.com/in/en/lightweight-technical-jacket-p03918301.html?v1=123837930"
 }
