@@ -95,12 +95,6 @@
   "link": "https://www.zara.com/in/en/striped-cotton-jacket-p00706489.html?v1=109011951"
 }
 {
-  "name": "FAUX LEATHER BIKER JACKET",
-  "price": 199000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/faux-leather-biker-jacket-p03427301.html?v1=109757278"
-}
-{
   "name": "COTTON JACKET WITH POCKETS",
   "price": 249000,
   "discount": 65,
@@ -111,6 +105,12 @@
   "price": 129000,
   "discount": 45,
   "link": "https://www.zara.com/in/en/short-sleeve-hoodie-p04087464.html?v1=123919634"
+}
+{
+  "name": "COTTON JACKET WITH HOOD",
+  "price": 199000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/cotton-jacket-with-hood-p00706469.html?v1=108980486"
 }
 {
   "name": "ZIP-UP NECK T-SHIRT",
@@ -167,18 +167,6 @@
   "link": "https://www.zara.com/in/en/hooded-down-puffer-jacket-p08288679.html?v1=164118385"
 }
 {
-  "name": "FAUX SUEDE OVERSHIRT",
-  "price": 129000,
-  "discount": 70,
-  "link": "https://www.zara.com/in/en/faux-suede-overshirt-p00562300.html?v1=108963064"
-}
-{
-  "name": "COTTON OVERSHIRT WITH POCKETS",
-  "price": 129000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/cotton-overshirt-with-pockets-p06861353.html?v1=119022991"
-}
-{
   "name": "JOGGERS WITH PLEAT DETAIL",
   "price": 99000,
   "discount": 65,
@@ -227,28 +215,10 @@
   "link": "https://www.zara.com/in/en/striped-textured-shirt-p07545446.html?v1=116150373"
 }
 {
-  "name": "T-SHIRT WITH BUTTONED NECK",
-  "price": 59000,
-  "discount": 70,
-  "link": "https://www.zara.com/in/en/t-shirt-with-buttoned-neck-p00722359.html?v1=124525196"
-}
-{
-  "name": "CONTRAST TECHNICAL T-SHIRT",
-  "price": 39000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/contrast-technical-t-shirt-p04335401.html?v1=140395607"
-}
-{
   "name": "LINEN - COTTON SHIRT WITH POCKETS",
   "price": 129000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/linen---cotton-shirt-with-pockets-p01413403.html?v1=110663292"
-}
-{
-  "name": "KNIT COTTON POLO SHIRT",
-  "price": 79000,
-  "discount": 50,
-  "link": "https://www.zara.com/in/en/knit-cotton-polo-shirt-p00693411.html?v1=123837987"
 }
 {
   "name": "RELAXED COTTON TROUSERS",
@@ -275,8 +245,8 @@
   "link": "https://www.zara.com/in/en/palm-tree-print-shirt-p03057816.html?v1=118160319"
 }
 {
-  "name": "PLUSH POLO SHIRT",
-  "price": 59000,
-  "discount": 75,
-  "link": "https://www.zara.com/in/en/plush-polo-shirt-p06264410.html?v1=108948856"
+  "name": "STRIPED KNIT T-SHIRT",
+  "price": 79000,
+  "discount": 70,
+  "link": "https://www.zara.com/in/en/striped-knit-t-shirt-p03332425.html?v1=123919614"
 }
