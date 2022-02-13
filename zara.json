@@ -107,12 +107,6 @@
   "link": "https://www.zara.com/in/en/zip-up-neck-t-shirt-p05644404.html?v1=110245099"
 }
 {
-  "name": "COLOUR BLOCK KNIT VEST",
-  "price": 79000,
-  "discount": 70,
-  "link": "https://www.zara.com/in/en/colour-block-knit-vest-p03597312.html?v1=123837531"
-}
-{
   "name": "COTTON CARDIGAN",
   "price": 129000,
   "discount": 70,
@@ -137,28 +131,16 @@
   "link": "https://www.zara.com/in/en/lightweight-rubberised-jacket-p09621470.html?v1=108913960"
 }
 {
-  "name": "JOGGER WAIST CORDUROY TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/jogger-waist-corduroy-trousers-p01592300.html?v1=143290988"
-}
-{
-  "name": "HOODED TECHNICAL JACKET",
-  "price": 199000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/hooded-technical-jacket-p08281507.html?v1=144305813"
-}
-{
   "name": "STRIPED SEERSUCKER OVERSHIRT",
   "price": 129000,
   "discount": 70,
   "link": "https://www.zara.com/in/en/striped-seersucker-overshirt-p09870416.html?v1=123919503"
 }
 {
-  "name": "JACQUARD CHRISTMAS BEANIE",
+  "name": "STRIPED SCARF",
   "price": 59000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/jacquard-christmas-beanie-p04204303.html?v1=146098488"
+  "discount": 75,
+  "link": "https://www.zara.com/in/en/striped-scarf-p03920335.html?v1=136251677"
 }
 {
   "name": "TEXTURED FLAT CAP",
@@ -167,16 +149,16 @@
   "link": "https://www.zara.com/in/en/textured-flat-cap-p09065307.html?v1=124036408"
 }
 {
+  "name": "CARD HOLDER WITH IRREGULAR EMBOSSING",
+  "price": 49000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/card-holder-with-irregular-embossing-p13802720.html?v1=131955153"
+}
+{
   "name": "PAISLEY PRINT JACKET",
   "price": 249000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/paisley-print-jacket-p00706335.html?v1=127830658"
-}
-{
-  "name": "UTILITY BLAZER",
-  "price": 199000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/utility-blazer-p01105301.html?v1=108989542"
 }
 {
   "name": "SEAMLESS SINGLET TOP",
@@ -227,6 +209,12 @@
   "link": "https://www.zara.com/in/en/set-jacket-p00706451.html?v1=116322853"
 }
 {
+  "name": "SHORT SLEEVE HOODIE",
+  "price": 129000,
+  "discount": 45,
+  "link": "https://www.zara.com/in/en/short-sleeve-hoodie-p04087464.html?v1=123919634"
+}
+{
   "name": "TEXTURED COTTON PARKA",
   "price": 199000,
   "discount": 75,
@@ -255,6 +243,12 @@
   "price": 129000,
   "discount": 50,
   "link": "https://www.zara.com/in/en/vest-with-contrast-trims-p02888407.html?v1=123839046"
+}
+{
+  "name": "TEXTURED BOMBER JACKET",
+  "price": 199000,
+  "discount": 30,
+  "link": "https://www.zara.com/in/en/textured-bomber-jacket-p01104300.html?v1=108939040"
 }
 {
   "name": "LIGHTWEIGHT TECHNICAL JACKET",
@@ -329,12 +323,6 @@
   "link": "https://www.zara.com/in/en/cotton-pleated-trousers-p06861352.html?v1=111196321"
 }
 {
-  "name": "LINEN - COTTON SHIRT WITH POCKETS",
-  "price": 129000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/linen---cotton-shirt-with-pockets-p01413403.html?v1=110663292"
-}
-{
   "name": "SHORT SLEEVE HOODIE",
   "price": 129000,
   "discount": 45,
@@ -401,6 +389,12 @@
   "link": "https://www.zara.com/in/en/cotton-chino-trousers-p00706306.html?v1=124525896"
 }
 {
+  "name": "TEXTURED BOMBER JACKET",
+  "price": 199000,
+  "discount": 30,
+  "link": "https://www.zara.com/in/en/textured-bomber-jacket-p01104300.html?v1=151035814"
+}
+{
   "name": "BASIC COLOURED SWEATER",
   "price": 129000,
   "discount": 35,
@@ -425,6 +419,12 @@
   "link": "https://www.zara.com/in/en/freddie-mercury---bravado-print-t-shirt-p01277304.html?v1=138553293"
 }
 {
+  "name": "JOGGER WAIST CORDUROY TROUSERS",
+  "price": 99000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/jogger-waist-corduroy-trousers-p01592300.html?v1=143290988"
+}
+{
   "name": "TEXTURED BERMUDA SHORTS",
   "price": 59000,
   "discount": 75,
@@ -435,12 +435,6 @@
   "price": 199000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/denim-jacket-with-pockets-p08197401.html?v1=129334940"
-}
-{
-  "name": "PARKA WITH CONTRAST COLLAR",
-  "price": 199000,
-  "discount": 75,
-  "link": "https://www.zara.com/in/en/parka-with-contrast-collar-p07484379.html?v1=144686910"
 }
 {
   "name": "TEXTURED JACKET",
@@ -471,6 +465,12 @@
   "price": 59000,
   "discount": 70,
   "link": "https://www.zara.com/in/en/basic-t-shirt-p00722303.html?v1=110606801"
+}
+{
+  "name": "HOODED TECHNICAL JACKET",
+  "price": 199000,
+  "discount": 55,
+  "link": "https://www.zara.com/in/en/hooded-technical-jacket-p08281507.html?v1=144305813"
 }
 {
   "name": "STRIPED TEXTURED BERMUDA SHORTS",
@@ -527,16 +527,16 @@
   "link": "https://www.zara.com/in/en/striped-oxford-shirt-p05588412.html?v1=116164242"
 }
 {
-  "name": "RELAXED FIT TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/relaxed-fit-trousers-p01300301.html?v1=114966347"
-}
-{
   "name": "STRIPED JACKET WITH POUCH POCKET",
   "price": 199000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/striped-jacket-with-pouch-pocket-p00706407.html?v1=113705263"
+}
+{
+  "name": "JOGGER BERMUDA SHORTS",
+  "price": 59000,
+  "discount": 75,
+  "link": "https://www.zara.com/in/en/jogger-bermuda-shorts-p00761600.html?v1=110662075"
 }
 {
   "name": "BASIC DENIM BERMUDA SHORTS",
@@ -551,6 +551,18 @@
   "link": "https://www.zara.com/in/en/knit-cardigan-p06674307.html?v1=111917125"
 }
 {
+  "name": "COMFORT SUIT TROUSERS",
+  "price": 99000,
+  "discount": 75,
+  "link": "https://www.zara.com/in/en/comfort-suit-trousers-p01564357.html?v1=118079687"
+}
+{
+  "name": "COMFORT SUIT TROUSERS",
+  "price": 99000,
+  "discount": 75,
+  "link": "https://www.zara.com/in/en/comfort-suit-trousers-p01564357.html?v1=137550635"
+}
+{
   "name": "SUIT TROUSERS",
   "price": 99000,
   "discount": 75,
@@ -561,6 +573,12 @@
   "price": 99000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/cropped-slim-fit-jeans-p08062425.html?v1=125045359"
+}
+{
+  "name": "TEXTURED SHIRT",
+  "price": 99000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/textured-shirt-p07545361.html?v1=128876319"
 }
 {
   "name": "CORDUROY@THESPANISHKING _ TROUSERS",
