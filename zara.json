@@ -137,10 +137,22 @@
   "link": "https://www.zara.com/in/en/colour-block-knit-vest-p03597312.html?v1=123837531"
 }
 {
+  "name": "KNIT VEST WITH HOOD",
+  "price": 129000,
+  "discount": 50,
+  "link": "https://www.zara.com/in/en/knit-vest-with-hood-p09598301.html?v1=123838595"
+}
+{
   "name": "HOODED VEST",
   "price": 129000,
   "discount": 50,
   "link": "https://www.zara.com/in/en/hooded-vest-p01608303.html?v1=123839069"
+}
+{
+  "name": "WIDE-FIT JACKET WITH POCKETS",
+  "price": 249000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/wide-fit-jacket-with-pockets-p09621697.html?v1=116774757"
 }
 {
   "name": "KNIT VEST WITH HOOD",
@@ -213,12 +225,6 @@
   "price": 199000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/lightweight-technical-jacket-p09621430.html?v1=109653242"
-}
-{
-  "name": "SEAMLESS SINGLET TOP",
-  "price": 59000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/seamless-singlet-top-p00119403.html?v1=110662098"
 }
 {
   "name": "TEXTURED PIQUÉ TROUSERS",
@@ -317,12 +323,6 @@
   "link": "https://www.zara.com/in/en/basic-denim-jacket-p04454450.html?v1=123919509"
 }
 {
-  "name": "RUNNING GILET",
-  "price": 99000,
-  "discount": 75,
-  "link": "https://www.zara.com/in/en/running-gilet-p01591400.html?v1=109653237"
-}
-{
   "name": "TECHNICAL JACKET",
   "price": 199000,
   "discount": 55,
@@ -335,16 +335,16 @@
   "link": "https://www.zara.com/in/en/striped-bomber-jacket-p09632474.html?v1=129303633"
 }
 {
+  "name": "DENIM SHIRT",
+  "price": 99000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/denim-shirt-p06987340.html?v1=139866451"
+}
+{
   "name": "CORDUROY JACKET",
   "price": 199000,
   "discount": 55,
   "link": "https://www.zara.com/in/en/corduroy-jacket-p01879301.html?v1=120466387"
-}
-{
-  "name": "OVERSHIRT WITH CONTRAST POCKETS",
-  "price": 129000,
-  "discount": 70,
-  "link": "https://www.zara.com/in/en/overshirt-with-contrast-pockets-p03562326.html?v1=117795877"
 }
 {
   "name": "ANIMAL PRINT JACKET",
@@ -473,12 +473,6 @@
   "link": "https://www.zara.com/in/en/corduroy-shirt-with-pocket-p03562470.html?v1=108948954"
 }
 {
-  "name": "COTTON - LYOCELL TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/cotton---lyocell-trousers-p02649455.html?v1=122558271"
-}
-{
   "name": "SUIT TROUSERS",
   "price": 99000,
   "discount": 75,
@@ -545,18 +539,6 @@
   "link": "https://www.zara.com/in/en/basic-denim-jacket-p04454460.html?v1=123838923"
 }
 {
-  "name": "WATER-REPELLENT TECHNICAL TRENCH COAT",
-  "price": 199000,
-  "discount": 70,
-  "link": "https://www.zara.com/in/en/water-repellent-technical-trench-coat-p00029303.html?v1=131956938"
-}
-{
-  "name": "CORDUROY JOGGING TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/corduroy-jogging-trousers-p01187303.html?v1=123410680"
-}
-{
   "name": "PLEATED CHINO TROUSERS",
   "price": 99000,
   "discount": 65,
@@ -605,12 +587,6 @@
   "link": "https://www.zara.com/in/en/lyocell-joggers-p01300302.html?v1=115735598"
 }
 {
-  "name": "JOGGER WAIST COTTON TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/jogger-waist-cotton-trousers-p06861301.html?v1=124500613"
-}
-{
   "name": "CARROT FIT TROUSERS",
   "price": 99000,
   "discount": 65,
@@ -627,12 +603,6 @@
   "price": 99000,
   "discount": 60,
   "link": "https://www.zara.com/in/en/striped-seersucker-shirt-p07545457.html?v1=125068046"
-}
-{
-  "name": "RELAXED FIT HERRINGBONE TROUSERS",
-  "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/relaxed-fit-herringbone-trousers-p00706344.html?v1=132558580"
 }
 {
   "name": "WIDE FIT TROUSERS",
@@ -711,12 +681,6 @@
   "price": 129000,
   "discount": 70,
   "link": "https://www.zara.com/in/en/overshirt-with-pockets-p06917362.html?v1=122249380"
-}
-{
-  "name": "ACTIVE STRIPED SHIRT",
-  "price": 99000,
-  "discount": 60,
-  "link": "https://www.zara.com/in/en/active-striped-shirt-p05445303.html?v1=122524643"
 }
 {
   "name": "COTTON SWEATER",
