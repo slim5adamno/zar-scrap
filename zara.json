@@ -47,12 +47,6 @@
   "link": "https://www.zara.com/in/en/technical-jacket-p03918306.html?v1=115714621"
 }
 {
-  "name": "COTTON JACKET WITH POCKETS",
-  "price": 199000,
-  "discount": 55,
-  "link": "https://www.zara.com/in/en/cotton-jacket-with-pockets-p03286402.html?v1=108967904"
-}
-{
   "name": "WOOL COAT",
   "price": 499000,
   "discount": 40,
@@ -185,10 +179,10 @@
   "link": "https://www.zara.com/in/en/basic-cotton-sweater-p04231390.html?v1=138647662"
 }
 {
-  "name": "TEXTURED SWEATER",
-  "price": 129000,
-  "discount": 50,
-  "link": "https://www.zara.com/in/en/textured-sweater-p09598300.html?v1=123838068"
+  "name": "COTTON JACKET WITH POCKETS",
+  "price": 199000,
+  "discount": 55,
+  "link": "https://www.zara.com/in/en/cotton-jacket-with-pockets-p03286402.html?v1=108967904"
 }
 {
   "name": "DENIM JACKET WITH POCKETS",
@@ -275,6 +269,12 @@
   "link": "https://www.zara.com/in/en/corduroy-shirt-with-pocket-p03562470.html?v1=108948954"
 }
 {
+  "name": "STRIPED SHIRT",
+  "price": 99000,
+  "discount": 65,
+  "link": "https://www.zara.com/in/en/striped-shirt-p07545350.html?v1=124591099"
+}
+{
   "name": "EMBROIDERED SWEATER",
   "price": 129000,
   "discount": 15,
@@ -347,10 +347,16 @@
   "link": "https://www.zara.com/in/en/knit-cardigan-p06674307.html?v1=111917125"
 }
 {
-  "name": "GEOMETRIC PRINT SHIRT",
+  "name": "RIPPED SKINNY JEANS",
   "price": 99000,
-  "discount": 65,
-  "link": "https://www.zara.com/in/en/geometric-print-shirt-p06602657.html?v1=146102982"
+  "discount": 75,
+  "link": "https://www.zara.com/in/en/ripped-skinny-jeans-p06688416.html?v1=117791369"
+}
+{
+  "name": "ABSTRACT PRINT KNIT T-SHIRT",
+  "price": 79000,
+  "discount": 60,
+  "link": "https://www.zara.com/in/en/abstract-print-knit-t-shirt-p04090320.html?v1=138431052"
 }
 {
   "name": "CORDUROY SHIRT WITH POCKET",
