@@ -24,12 +24,6 @@
     "link": "https://www.zara.com/in/en/bermuda-shorts-with-textured-weave-and-cord-p02675320.html?v1=124525843"
   },
   {
-    "name": "SKULL PRINT T-SHIRT",
-    "price": 59000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/skull-print-t-shirt-p00679316.html?v1=141537991"
-  },
-  {
     "name": "BASIC DENIM BERMUDA SHORTS",
     "price": 59000,
     "discount": 75,
@@ -40,6 +34,12 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/pleated-trousers-p06861309.html?v1=122558314"
+  },
+  {
+    "name": "PREMIUM BERMUDA JOGGERS",
+    "price": 59000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/premium-bermuda-joggers-p04087313.html?v1=124501103"
   },
   {
     "name": "CHECK SUIT TROUSERS",
@@ -180,12 +180,6 @@
     "link": "https://www.zara.com/in/en/contrast-striped-shirt-p05580384.html?v1=120684495"
   },
   {
-    "name": "STRIPED PRINT SHIRT",
-    "price": 79000,
-    "discount": 70,
-    "link": "https://www.zara.com/in/en/striped-print-shirt-p06987431.html?v1=116659575"
-  },
-  {
     "name": "OVERSHIRT WITH CONTRAST POCKETS",
     "price": 129000,
     "discount": 70,
@@ -214,12 +208,6 @@
     "price": 129000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/cotton-cardigan-p00761305.html?v1=114986667"
-  },
-  {
-    "name": "OXFORD SHIRT",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/oxford-shirt-p05588420.html?v1=131383808"
   },
   {
     "name": "OVERSIZE VELOUR SWEATSHIRT",
@@ -358,12 +346,6 @@
     "price": 249000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/waxed-effect-jacket-p07484380.html?v1=127864157"
-  },
-  {
-    "name": "STRIPED COTTON SHIRT",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/striped-cotton-shirt-p05588404.html?v1=116118474"
   },
   {
     "name": "COMBINED RUNNING LEGGINGS",
@@ -642,12 +624,6 @@
     "link": "https://www.zara.com/in/en/striped-cotton-jacket-p00706478.html?v1=108980448"
   },
   {
-    "name": "TIE-DYE PRINT DENIM OVERSHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/tie-dye-print-denim-overshirt-p07446303.html?v1=129531460"
-  },
-  {
     "name": "COLOUR BLOCK CORDUROY OVERSHIRT",
     "price": 129000,
     "discount": 55,
@@ -718,12 +694,6 @@
     "price": 199000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/cotton-jacket-with-pockets-p03286402.html?v1=108967904"
-  },
-  {
-    "name": "TIE-DYE PRINT DENIM OVERSHIRT",
-    "price": 129000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/tie-dye-print-denim-overshirt-p07446303.html?v1=116774786"
   },
   {
     "name": "LINEN - COTTON SHIRT WITH POCKETS",
@@ -814,6 +784,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/textured-sweater-p09598300.html?v1=123837878"
+  },
+  {
+    "name": "HOODIE WITH ZIP",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/hoodie-with-zip-p05431380.html?v1=136870704"
   },
   {
     "name": "KNIT VEST WITH HOOD",
