@@ -12,6 +12,12 @@
     "link": "https://www.zara.com/in/en/contrast-collar-jacket-p05320305.html?v1=113754492"
   },
   {
+    "name": "CONTRAST COLLAR JACKET",
+    "price": 129000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/contrast-collar-jacket-p05320305.html?v1=113754493"
+  },
+  {
     "name": "TEXTURED FLAT CAP",
     "price": 29000,
     "discount": 80,
@@ -28,12 +34,6 @@
     "price": 59000,
     "discount": 80,
     "link": "https://www.zara.com/in/en/basic-bermuda-shorts-p05719137.html?v1=124525285"
-  },
-  {
-    "name": "CONTRAST COLLAR JACKET",
-    "price": 129000,
-    "discount": 80,
-    "link": "https://www.zara.com/in/en/contrast-collar-jacket-p05320305.html?v1=113754493"
   },
   {
     "name": "COMFORT SUIT TROUSERS",
@@ -168,10 +168,16 @@
     "link": "https://www.zara.com/in/en/towelling-fabric-bermuda-shorts-p04087305.html?v1=124525693"
   },
   {
-    "name": "SUIT DINNER JACKET",
-    "price": 199000,
+    "name": "BASIC DENIM BERMUDA SHORTS",
+    "price": 59000,
     "discount": 75,
-    "link": "https://www.zara.com/in/en/suit-dinner-jacket-p06747620.html?v1=141590576"
+    "link": "https://www.zara.com/in/en/basic-denim-bermuda-shorts-p01620400.html?v1=124501421"
+  },
+  {
+    "name": "PREMIUM BERMUDA JOGGERS",
+    "price": 59000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/premium-bermuda-joggers-p04087313.html?v1=124501103"
   },
   {
     "name": "RIPPED SKINNY JEANS",
@@ -432,12 +438,6 @@
     "link": "https://www.zara.com/in/en/knit-colour-block-polo-shirt-p03597311.html?v1=123837484"
   },
   {
-    "name": "DIAGONAL TEXTURED WEAVE SHIRT",
-    "price": 79000,
-    "discount": 70,
-    "link": "https://www.zara.com/in/en/diagonal-textured-weave-shirt-p07545250.html?v1=117782711"
-  },
-  {
     "name": "BASIC POLO SHIRT",
     "price": 59000,
     "discount": 70,
@@ -484,6 +484,12 @@
     "price": 79000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/oversize-pleated-shirt-p08288483.html?v1=123837664"
+  },
+  {
+    "name": "STRIPED TEXTURED SHIRT",
+    "price": 79000,
+    "discount": 70,
+    "link": "https://www.zara.com/in/en/striped-textured-shirt-p07545326.html?v1=123839166"
   },
   {
     "name": "BASIC V-NECK T-SHIRT",
@@ -1206,6 +1212,12 @@
     "link": "https://www.zara.com/in/en/polo-overshirt-p06345156.html?v1=129691712"
   },
   {
+    "name": "STRIPED COTTON SHIRT",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/striped-cotton-shirt-p05588404.html?v1=116118474"
+  },
+  {
     "name": "OXFORD SHIRT",
     "price": 99000,
     "discount": 65,
@@ -1512,12 +1524,6 @@
     "link": "https://www.zara.com/in/en/contrast-collar-jacket-p00706336.html?v1=122549475"
   },
   {
-    "name": "CONTRAST CORDUROY BOMBER JACKET",
-    "price": 249000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/contrast-corduroy-bomber-jacket-p05320400.html?v1=156797402"
-  },
-  {
     "name": "CROPPED SLIM FIT JEANS",
     "price": 99000,
     "discount": 60,
@@ -1816,12 +1822,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/floral-print-jacket-p00706339.html?v1=127922273"
-  },
-  {
-    "name": "CONTRAST CORDUROY BOMBER JACKET",
-    "price": 249000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/contrast-corduroy-bomber-jacket-p05320400.html?v1=157020250"
   },
   {
     "name": "TECHNICAL HOODED JACKET",
@@ -2460,6 +2460,12 @@
     "link": "https://www.zara.com/in/en/oversized-double-collar-sweatshirt-p04087409.html?v1=110027029"
   },
   {
+    "name": "TEXTURED SWEATER",
+    "price": 129000,
+    "discount": 55,
+    "link": "https://www.zara.com/in/en/textured-sweater-p02632405.html?v1=160942622"
+  },
+  {
     "name": "DENIM OVERSHIRT WITH POCKETS",
     "price": 129000,
     "discount": 55,
@@ -2886,6 +2892,12 @@
     "link": "https://www.zara.com/in/en/hoodie-with-zip-p05431380.html?v1=136870704"
   },
   {
+    "name": "HOODIE WITH ZIP",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/hoodie-with-zip-p05431380.html?v1=136870703"
+  },
+  {
     "name": "SWEATSHIRT WITH CONTRASTING PANELS",
     "price": 129000,
     "discount": 50,
@@ -2950,11 +2962,5 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/hoodie-with-zip-p05431380.html?v1=136870705"
-  },
-  {
-    "name": "HOODIE WITH ZIP",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/hoodie-with-zip-p05431380.html?v1=136870703"
   }
 ]
