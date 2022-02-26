@@ -6,6 +6,12 @@
     "link": "https://www.zara.com/in/en/limited-edition-leather-belt-p05919313.html?v1=125534267"
   },
   {
+    "name": "BASIC V-NECK T-SHIRT",
+    "price": 15000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/basic-v-neck-t-shirt-p02649300.html?v1=123838178"
+  },
+  {
     "name": "JACQUARD KNIT VEST",
     "price": 79000,
     "discount": 80,
@@ -514,12 +520,6 @@
     "price": 129000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/corduroy-overshirt-with-pockets-p07446315.html?v1=134580607"
-  },
-  {
-    "name": "GEOMETRIC JACQUARD OVERSHIRT",
-    "price": 129000,
-    "discount": 70,
-    "link": "https://www.zara.com/in/en/geometric-jacquard-overshirt-p02675401.html?v1=125411703"
   },
   {
     "name": "© WES ROBINSON ILLUSTRATION T-SHIRT",
@@ -1806,12 +1806,6 @@
     "link": "https://www.zara.com/in/en/striped-shirt-p07545275.html?v1=125045346"
   },
   {
-    "name": "LYOCELL - LINEN SHIRT",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/lyocell---linen-shirt-p05617053.html?v1=125044901"
-  },
-  {
     "name": "COTTON CHINO TROUSERS",
     "price": 99000,
     "discount": 65,
@@ -1876,12 +1870,6 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/geometric-print-shirt-p06368516.html?v1=136866179"
-  },
-  {
-    "name": "JOGGING TROUSERS WITH STRIPE DETAIL",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/jogging-trousers-with-stripe-detail-p04087342.html?v1=120162978"
   },
   {
     "name": "JOGGERS WITH PLEAT DETAIL",
@@ -2148,6 +2136,12 @@
     "link": "https://www.zara.com/in/en/photo-print-shirt-p06380536.html?v1=131343731"
   },
   {
+    "name": "JOGGING TROUSERS WITH STRIPE DETAIL",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/jogging-trousers-with-stripe-detail-p04087342.html?v1=120162978"
+  },
+  {
     "name": "PACKABLE SEERSUCKER SUIT TROUSERS",
     "price": 99000,
     "discount": 65,
@@ -2332,6 +2326,12 @@
     "price": 99000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/striped-seersucker-shirt-p07545457.html?v1=125068046"
+  },
+  {
+    "name": "BASIC STRIPED T-SHIRT",
+    "price": 59000,
+    "discount": 60,
+    "link": "https://www.zara.com/in/en/basic-striped-t-shirt-p09240300.html?v1=124501834"
   },
   {
     "name": "TEXTURED CHINO TROUSERS",
