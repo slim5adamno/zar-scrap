@@ -1,5 +1,11 @@
 [
   {
+    "name": "LASER-CUT TECHNICAL TOP",
+    "price": 59000,
+    "discount": 80,
+    "link": "https://www.zara.com/in/en/laser-cut-technical-top-p01608473.html?v1=112893092"
+  },
+  {
     "name": "JACQUARD KNIT VEST",
     "price": 79000,
     "discount": 80,
@@ -40,6 +46,12 @@
     "price": 59000,
     "discount": 80,
     "link": "https://www.zara.com/in/en/basic-bermuda-shorts-p05719137.html?v1=124525285"
+  },
+  {
+    "name": "CHECK SUIT BLAZER",
+    "price": 199000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/check-suit-blazer-p00706328.html?v1=137547065"
   },
   {
     "name": "KNIT JOGGER BERMUDA SHORTS",
@@ -114,12 +126,6 @@
     "link": "https://www.zara.com/in/en/linen---cotton-bermuda-shorts-p07248405.html?v1=124500639"
   },
   {
-    "name": "CHECK SUIT BLAZER",
-    "price": 199000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/check-suit-blazer-p00029330.html?v1=123919510"
-  },
-  {
     "name": "BRUSHED WOOL SWEATER",
     "price": 129000,
     "discount": 75,
@@ -178,6 +184,12 @@
     "price": 99000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/check-suit-trousers-p05630148.html?v1=137549571"
+  },
+  {
+    "name": "CHECK SUIT TROUSERS",
+    "price": 99000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/check-suit-trousers-p00029331.html?v1=123837507"
   },
   {
     "name": "PARKA WITH CONTRAST COLLAR",
@@ -328,12 +340,6 @@
     "price": 199000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/cotton-double-breasted-blazer-p05684346.html?v1=124223061"
-  },
-  {
-    "name": "CHECK SUIT TROUSERS",
-    "price": 99000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/check-suit-trousers-p00029331.html?v1=123837507"
   },
   {
     "name": "WIDE FIT TROUSERS",
@@ -1230,12 +1236,6 @@
     "link": "https://www.zara.com/in/en/cotton-cardigan-p03332315.html?v1=131094528"
   },
   {
-    "name": "OTTOMAN TROUSERS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/ottoman-trousers-p04087311.html?v1=129511586"
-  },
-  {
     "name": "STRIPED JOGGER WAIST TROUSERS",
     "price": 99000,
     "discount": 65,
@@ -1270,18 +1270,6 @@
     "price": 79000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/creased-effect-shirt-p06103401.html?v1=123839173"
-  },
-  {
-    "name": "JOGGER WAIST CORDUROY TROUSERS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/jogger-waist-corduroy-trousers-p01592300.html?v1=143290988"
-  },
-  {
-    "name": "VELOUR PLEATED JOGGING TROUSERS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/velour-pleated-jogging-trousers-p08288561.html?v1=128437178"
   },
   {
     "name": "CONTRAST CHECK OVERSHIRT",
@@ -1330,12 +1318,6 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/tailored-shirt-p00975404.html?v1=124896021"
-  },
-  {
-    "name": "OTTOMAN TROUSERS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/ottoman-trousers-p04087311.html?v1=124501581"
   },
   {
     "name": "TEXTURED JOGGER WAIST TROUSERS",
@@ -1428,12 +1410,6 @@
     "link": "https://www.zara.com/in/en/cotton-shirt-p05588414.html?v1=116118495"
   },
   {
-    "name": "CARROT FIT JEANS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/carrot-fit-jeans-p01300300.html?v1=113914557"
-  },
-  {
     "name": "COTTON SHIRT WITH POCKET",
     "price": 99000,
     "discount": 65,
@@ -1510,12 +1486,6 @@
     "price": 129000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/technical-t-shirt-with-zip-p02651402.html?v1=113867165"
-  },
-  {
-    "name": "PACKABLE SEERSUCKER SUIT TROUSERS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/packable-seersucker-suit-trousers-p09870411.html?v1=123837996"
   },
   {
     "name": "FLORAL PRINT SHIRT",
@@ -1954,12 +1924,6 @@
     "price": 59000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/cotton-bermuda-shorts-p09621420.html?v1=123919769"
-  },
-  {
-    "name": "SOFT COMFORT BLAZER",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/soft-comfort-blazer-p09621550.html?v1=123837945"
   },
   {
     "name": "T-SHIRT WITH POCKET",
@@ -3064,12 +3028,6 @@
     "price": 129000,
     "discount": 55,
     "link": "https://www.zara.com/in/en/soft-leather-mobile-phone-bag-p13904820.html?v1=125067118"
-  },
-  {
-    "name": "POLKA DOT JACQUARD SOCKS",
-    "price": 29000,
-    "discount": 55,
-    "link": "https://www.zara.com/in/en/polka-dot-jacquard-socks-p03334306.html?v1=123657693"
   },
   {
     "name": "CORDUROY HOODIE",
