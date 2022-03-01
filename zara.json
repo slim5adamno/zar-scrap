@@ -492,12 +492,6 @@
     "link": "https://www.zara.com/in/en/relaxed-set-jeans-p02553314.html?v1=131957020"
   },
   {
-    "name": "ACID WASH T-SHIRT",
-    "price": 59000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/acid-wash-t-shirt-p06917310.html?v1=123839422"
-  },
-  {
     "name": "PRINTED DENIM LASER PRINT VEST",
     "price": 99000,
     "discount": 75,
@@ -1380,16 +1374,22 @@
     "link": "https://www.zara.com/in/en/comfort-fit-chino-trousers-p00706415.html?v1=131060602"
   },
   {
-    "name": "MATCHING FLEECE JACKET",
-    "price": 199000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/matching-fleece-jacket-p05320302.html?v1=163118918"
-  },
-  {
     "name": "SLOGAN PRINT SHIRT",
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/slogan-print-shirt-p06085305.html?v1=157022486"
+  },
+  {
+    "name": "ABSTRACT PRINT SHIRT",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085315.html?v1=157017386"
+  },
+  {
+    "name": "ABSTRACT PRINT SHIRT",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085315.html?v1=156797423"
   },
   {
     "name": "SLOGAN PRINT SHIRT",
@@ -1936,18 +1936,6 @@
     "price": 99000,
     "discount": 65,
     "link": "https://www.zara.com/in/en/pleated-herringbone-trousers-p00647305.html?v1=128129508"
-  },
-  {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085315.html?v1=157017386"
-  },
-  {
-    "name": "ABSTRACT PRINT SHIRT",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/abstract-print-shirt-p06085315.html?v1=156797423"
   },
   {
     "name": "STRIPED SATIN TROUSERS",
@@ -2860,12 +2848,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/textured-check-overshirt-p04111552.html?v1=108949344"
-  },
-  {
-    "name": "JACQUARD OVERSHIRT",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/jacquard-overshirt-p03057654.html?v1=160942108"
   },
   {
     "name": "LOOSE-FITTING BLAZER",
@@ -4044,12 +4026,6 @@
     "link": "https://www.zara.com/in/en/round-neck-sweater-p03332316.html?v1=137019779"
   },
   {
-    "name": "BASIC HIGH NECK SWEATER",
-    "price": 129000,
-    "discount": 50,
-    "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00693302.html?v1=140919868"
-  },
-  {
     "name": "COTTON SWEATER WITH PATCH DETAIL",
     "price": 129000,
     "discount": 50,
@@ -4210,6 +4186,12 @@
     "price": 129000,
     "discount": 50,
     "link": "https://www.zara.com/in/en/oversized-sweatshirt-p04087347.html?v1=123584076"
+  },
+  {
+    "name": "BASIC HIGH NECK SWEATER",
+    "price": 129000,
+    "discount": 50,
+    "link": "https://www.zara.com/in/en/basic-high-neck-sweater-p00693302.html?v1=140919868"
   },
   {
     "name": "HOODIE WITH ZIP",
