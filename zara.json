@@ -42,6 +42,12 @@
     "link": "https://www.zara.com/in/en/water-repellent-technical-coat-p06518312.html?v1=108953386"
   },
   {
+    "name": "PREMIUM HOODED PARKA",
+    "price": 129000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/premium-hooded-parka-p04087358.html?v1=129691760"
+  },
+  {
     "name": "STRUCTURED COAT",
     "price": 199000,
     "discount": 75,
@@ -366,12 +372,6 @@
     "link": "https://www.zara.com/in/en/check-suit-trousers-p00706355.html?v1=137551069"
   },
   {
-    "name": "WOOL SWEATER",
-    "price": 129000,
-    "discount": 75,
-    "link": "https://www.zara.com/in/en/wool-sweater-p00693316.html?v1=121258699"
-  },
-  {
     "name": "BRUSHED WOOL SWEATER",
     "price": 129000,
     "discount": 75,
@@ -384,10 +384,10 @@
     "link": "https://www.zara.com/in/en/textured-cotton-parka-p02675314.html?v1=122869282"
   },
   {
-    "name": "TEXTURED CHECK BLAZER",
+    "name": "COTTON DOUBLE-BREASTED BLAZER",
     "price": 199000,
     "discount": 75,
-    "link": "https://www.zara.com/in/en/textured-check-blazer-p06861319.html?v1=116405224"
+    "link": "https://www.zara.com/in/en/cotton-double-breasted-blazer-p05684346.html?v1=124223061"
   },
   {
     "name": "SET BLAZER",
@@ -562,6 +562,12 @@
     "price": 199000,
     "discount": 75,
     "link": "https://www.zara.com/in/en/premium-trench-coat-p04664075.html?v1=148456519"
+  },
+  {
+    "name": "TEXTURED CHECK BLAZER",
+    "price": 199000,
+    "discount": 75,
+    "link": "https://www.zara.com/in/en/textured-check-blazer-p06861319.html?v1=116405224"
   },
   {
     "name": "RUNNING GILET",
@@ -748,12 +754,6 @@
     "price": 79000,
     "discount": 70,
     "link": "https://www.zara.com/in/en/paisley-print-shirt-p03562301.html?v1=123838177"
-  },
-  {
-    "name": "STRIPED POLO SHIRT",
-    "price": 79000,
-    "discount": 70,
-    "link": "https://www.zara.com/in/en/striped-polo-shirt-p03057187.html?v1=123837698"
   },
   {
     "name": "OVERSHIRT WITH POCKETS",
@@ -1692,6 +1692,12 @@
     "link": "https://www.zara.com/in/en/wide-fit-trousers-p08574427.html?v1=108911303"
   },
   {
+    "name": "COTTON CHINOS",
+    "price": 99000,
+    "discount": 65,
+    "link": "https://www.zara.com/in/en/cotton-chinos-p09632307.html?v1=125170048"
+  },
+  {
     "name": "TECHNICAL T-SHIRT WITH ZIP",
     "price": 129000,
     "discount": 65,
@@ -1938,12 +1944,6 @@
     "link": "https://www.zara.com/in/en/relaxed-fit-jeans-p05072301.html?v1=108911134"
   },
   {
-    "name": "COTTON CHINOS",
-    "price": 99000,
-    "discount": 65,
-    "link": "https://www.zara.com/in/en/cotton-chinos-p09632307.html?v1=125170048"
-  },
-  {
     "name": "TEXTURED PIQUÉ TROUSERS",
     "price": 99000,
     "discount": 65,
@@ -2188,12 +2188,6 @@
     "price": 199000,
     "discount": 60,
     "link": "https://www.zara.com/in/en/knit-jacket-p06674310.html?v1=119035864"
-  },
-  {
-    "name": "PRINTED DENIM JACKET",
-    "price": 199000,
-    "discount": 60,
-    "link": "https://www.zara.com/in/en/printed-denim-jacket-p01466304.html?v1=115009415"
   },
   {
     "name": "SKINNY CHINO TROUSERS",
